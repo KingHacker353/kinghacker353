@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subdomain Takeover</title>
+</head>
+<body>
+  <h1>Subdomain Taken Over by kinghacker353</h1>
+  <p>This proves that the subdomain pages.rdstation.com.br is vulnerable to takeover.</p>
+</body>
+</html>
